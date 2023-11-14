@@ -20,7 +20,8 @@
 
 ## Flow chart
 
-![Diagram1](flow.png)
+![flow](https://github.com/Paul-Andrew-15/Pneumonia-Detection-using-Convolutional-neural-network-and-Transfer-learning-Resnet50-/assets/94279791/c4799307-f535-4d2c-9751-67ec055b9914)
+
 
 ## Installation
 
@@ -262,16 +263,17 @@ pd.DataFrame(classification_report(test.classes, predicted_vals > 0.5, output_di
 ## Output:
 
 ### Training log:
-![output1](ot1.png)
+![ot1](https://github.com/Paul-Andrew-15/Pneumonia-Detection-using-Convolutional-neural-network-and-Transfer-learning-Resnet50-/assets/94279791/4b372ac8-8d10-413e-8dd4-b9894ae0ed53)
+
 
 ### Model evaluation metrics:
-![output2](ot2.png)
+![ot2](https://github.com/Paul-Andrew-15/Pneumonia-Detection-using-Convolutional-neural-network-and-Transfer-learning-Resnet50-/assets/94279791/ffe6b9f1-8e27-4367-b6c9-71db57e6245b)
 
 ### Confusion matrix:
-![output3](ot3.png)
+![ot3](https://github.com/Paul-Andrew-15/Pneumonia-Detection-using-Convolutional-neural-network-and-Transfer-learning-Resnet50-/assets/94279791/ddcb146d-0ce8-40b9-bb22-da107d0ccc4b)
 
 ### Classification report:
-![output4](ot4.png)
+![ot4](https://github.com/Paul-Andrew-15/Pneumonia-Detection-using-Convolutional-neural-network-and-Transfer-learning-Resnet50-/assets/94279791/888e911e-aeba-48cd-a15d-f64255cd76e5)
 
 ## Result:
 
